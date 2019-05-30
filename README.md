@@ -1,6 +1,5 @@
 # Chatting
 wifi based chatting app
-MCAN-MINI-PROJECT
 CHATTING APPLICATION USING WIFI-DIRECT
 using android studio
 -By
